@@ -7,4 +7,4 @@
 
 Power BI is an interactive data visualization software developed by Microsoft with primary focus on business intelligence. It is part of the Microsoft Power Platform.
 
-#### This repository consist of project on powerbi for data Analytics with interactive dashboards
+#### This repository consist of projects done on powerBi for data Analyzing with interactive dashboards
