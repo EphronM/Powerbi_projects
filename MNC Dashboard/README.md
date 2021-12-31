@@ -18,7 +18,7 @@ With the help for this Dashboard created using PowerBi, the managining director 
 - Pie charts for percentage in each segments
 - Every attribute interacts based on the favoured selection.
 
-![Part1](https://user-images.githubusercontent.com/94764266/147800146-ba04b2a8-6038-4a08-987c-cc803d56eca1.gif)
+![Part1_1](https://user-images.githubusercontent.com/94764266/147839217-c808ce8b-cf54-472f-b5cc-3a6ea0e474b8.gif)
 
 ## Data collection
 
@@ -40,8 +40,7 @@ Cleaning and transformation was done to retrive the neccesary information. Eg. D
 
 Toothpick was added to all attributes to get an deeper insights  from the available data. .
 
-
-![part2new](https://user-images.githubusercontent.com/94764266/147800191-351097ff-721d-4cc8-b422-2b18b0a26567.gif)
+![part2new_1](https://user-images.githubusercontent.com/94764266/147839225-15a2586d-1d04-4935-9b9f-aecd71dafecc.gif)
 
 
 
